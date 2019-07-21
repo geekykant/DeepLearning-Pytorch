@@ -1,6 +1,15 @@
 # MNIST Fashion Classification
 
-This project uses Fashion MNIST dataset (https://www.kaggle.com/zalando-research/fashionmnist) to classify digits using PyTorch DeepLearning model.
+This project uses Fashion MNIST dataset (https://www.kaggle.com/zalando-research/fashionmnist) to classify fashion class items in ['T-shirt/top',
+                            'Trouser',
+                            'Pullover',
+                            'Dress',
+                            'Coat',
+                            'Sandal',
+                            'Shirt',
+                            'Sneaker',
+                            'Bag',
+                            'Ankle Boot'] using PyTorch DeepLearning model.
 
 ## Model
 ```python
