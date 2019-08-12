@@ -13,4 +13,4 @@ model = nn.Sequential(nn.Linear(784,128),
 ```
 
 ## Output
-![MNIST Classification Colab Working](https://github.com/geekykant/DeepLearning-Pytorch/blob/master/CIFAR10%20Image%20Classification/output/output.png?raw=true)
+![MNIST Classification Colab Working](https://github.com/geekykant/DeepLearning-Pytorch/blob/master/MNIST%20DIgits%20Classification/output/output.png)
